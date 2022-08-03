@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="517.00006"
+   height="43120"
+   viewBox="0 0 136.78959 11408.834"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="calendar.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="180.66667"
+     inkscape:cy="90.000024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     units="px"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(143.84514,11245.712)">
+    <rect
+       style="opacity:1;fill:#0055d4;fill-opacity:0.99516913;stroke-width:0.27925059"
+       id="rect100"
+       width="132.29167"
+       height="98.954163"
+       x="-139.34721"
+       y="64.166664" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99516913;stroke-width:0.26458332"
+       id="rect106"
+       width="32.543751"
+       height="29.633333"
+       x="-109.00832"
+       y="-11245.712" />
+    <g
+       id="g118"
+       transform="translate(-16.580562,-8.7312437)"
+       style="fill:#1a1a1a">
+      <rect
+         y="136.66249"
+         x="-127.26457"
+         height="29.36875"
+         width="39.6875"
+         id="rect109"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99516913;stroke-width:0.24495655" />
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99516913;stroke-width:0.24495655"
+         id="rect111"
+         width="39.6875"
+         height="29.36875"
+         x="-84.005196"
+         y="136.66249" />
+      <rect
+         y="136.66249"
+         x="-40.745819"
+         height="29.36875"
+         width="39.6875"
+         id="rect113"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99516913;stroke-width:0.24495655" />
+    </g>
+    <g
+       id="g136"
+       transform="translate(-35.498264,6.6145802)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.99516913;stroke-width:0.24495655"
+         id="rect120"
+         width="39.6875"
+         height="29.36875"
+         x="-108.34687"
+         y="86.127083" />
+      <rect
+         y="86.127083"
+         x="-65.087494"
+         height="29.36875"
+         width="39.6875"
+         id="rect122"
+         style="opacity:1;fill:#000000;fill-opacity:0.99516913;stroke-width:0.24495655" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.99516913;stroke-width:0.24495655"
+         id="rect124"
+         width="39.6875"
+         height="29.36875"
+         x="-21.828115"
+         y="86.127083" />
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.99516913;stroke-width:0.33647853"
+       id="rect131"
+       width="125.94167"
+       height="17.4625"
+       x="-143.84514"
+       y="70.78125" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     transform="translate(27.428479,11315.699)" />
+</svg>
